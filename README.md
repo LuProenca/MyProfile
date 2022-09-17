@@ -1,6 +1,6 @@
 # MyProfile - Trilha Explorer
 
-![preview](./.github/preview.png)
+![preview](./preview.png)
 
 Projeto construido no evento Next Level Week da Rocketseat
 
